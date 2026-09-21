@@ -1,0 +1,533 @@
+score,band,direction,day_type,reversal,fired
+10,trend healthy,downtrend,mixed,True,absorption
+0,trend healthy,downtrend,mixed,True,-
+20,trend healthy,uptrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+0,trend healthy,downtrend,mixed,False,-
+10,trend healthy,downtrend,mixed,False,location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+25,trend healthy,downtrend,mixed,True,location+rejection
+20,trend healthy,downtrend,mixed,True,absorption+location
+20,trend healthy,downtrend,mixed,True,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+35,caution,downtrend,mixed,False,absorption+location+rejection
+20,trend healthy,downtrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,absorption
+20,trend healthy,downtrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,location
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+0,trend healthy,downtrend,trend,False,location
+0,trend healthy,downtrend,trend,False,-
+0,trend healthy,downtrend,trend,False,location
+0,trend healthy,downtrend,trend,False,-
+10,trend healthy,downtrend,trend,False,absorption
+10,trend healthy,downtrend,trend,False,absorption
+10,trend healthy,downtrend,trend,False,absorption
+20,trend healthy,downtrend,trend,False,absorption+location
+10,trend healthy,downtrend,trend,False,absorption
+10,trend healthy,downtrend,trend,False,absorption
+0,trend healthy,downtrend,mixed,False,-
+15,trend healthy,downtrend,mixed,False,rejection
+20,trend healthy,downtrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,absorption
+20,trend healthy,downtrend,mixed,False,absorption+location
+0,trend healthy,downtrend,mixed,False,-
+20,trend healthy,downtrend,mixed,False,absorption+location
+35,caution,downtrend,mixed,False,absorption+location+rejection
+35,caution,downtrend,mixed,False,absorption+location+rejection
+35,caution,downtrend,mixed,True,absorption+location+rejection
+20,trend healthy,downtrend,mixed,True,absorption+location
+10,trend healthy,uptrend,range,False,absorption
+35,caution,downtrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+35,caution,downtrend,range,False,absorption+location+rejection
+10,trend healthy,downtrend,range,False,location
+35,caution,downtrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,range,False,absorption+location
+35,caution,downtrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,location
+10,trend healthy,downtrend,mixed,False,location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+35,caution,downtrend,mixed,False,absorption+location+rejection
+35,caution,downtrend,mixed,False,absorption+location+rejection
+20,trend healthy,downtrend,mixed,True,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+0,trend healthy,uptrend,mixed,False,-
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+35,caution,uptrend,trend,False,absorption+location+rejection
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+10,trend healthy,uptrend,trend,False,absorption
+25,trend healthy,uptrend,trend,False,absorption+rejection
+10,trend healthy,uptrend,trend,False,absorption
+0,trend healthy,uptrend,trend,False,-
+0,trend healthy,uptrend,trend,False,location
+35,caution,uptrend,trend,False,absorption+location+rejection
+35,caution,uptrend,trend,False,absorption+location+rejection
+20,trend healthy,uptrend,trend,True,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,absorption
+25,trend healthy,downtrend,mixed,False,absorption+rejection
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+0,trend healthy,downtrend,mixed,True,-
+35,caution,uptrend,mixed,False,absorption+location+rejection
+35,caution,uptrend,mixed,False,absorption+location+rejection
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+10,trend healthy,uptrend,mixed,False,absorption
+10,trend healthy,uptrend,mixed,True,absorption
+35,caution,downtrend,mixed,False,absorption+location+rejection
+20,trend healthy,downtrend,mixed,False,absorption+location
+40,caution,downtrend,mixed,False,absorption+location+rejection+rsi_gated
+25,trend healthy,downtrend,mixed,False,absorption+location+rsi_gated
+40,caution,downtrend,mixed,False,absorption+location+rejection+rsi_gated
+40,caution,downtrend,mixed,False,absorption+location+rejection+rsi_gated
+10,trend healthy,downtrend,mixed,False,absorption
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+10,trend healthy,uptrend,range,False,absorption
+35,caution,uptrend,range,False,absorption+location+rejection
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,True,absorption+location
+10,trend healthy,uptrend,mixed,False,location
+10,trend healthy,uptrend,range,False,location
+10,trend healthy,uptrend,range,False,location
+10,trend healthy,uptrend,range,False,location
+10,trend healthy,uptrend,range,False,location
+10,trend healthy,uptrend,range,False,location
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+35,caution,downtrend,mixed,False,absorption+location+rejection
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+35,caution,downtrend,mixed,False,absorption+location+rejection
+35,caution,downtrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,range,False,absorption+location
+10,trend healthy,downtrend,range,False,location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,True,absorption+location
+20,trend healthy,uptrend,range,True,absorption+location
+20,trend healthy,uptrend,range,True,absorption+location
+10,trend healthy,downtrend,range,False,absorption
+20,trend healthy,downtrend,range,False,absorption+location
+35,caution,downtrend,range,False,absorption+location+rejection
+35,caution,downtrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,range,False,absorption+location
+35,caution,downtrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+0,trend healthy,downtrend,mixed,False,-
+15,trend healthy,downtrend,mixed,False,location+rsi_gated
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+35,caution,downtrend,trend,False,absorption+location+rejection
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+10,trend healthy,downtrend,trend,False,absorption
+10,trend healthy,downtrend,trend,False,location
+0,trend healthy,downtrend,trend,False,-
+10,trend healthy,downtrend,mixed,False,absorption
+0,trend healthy,downtrend,mixed,False,-
+0,trend healthy,downtrend,mixed,False,-
+0,trend healthy,downtrend,mixed,False,-
+0,trend healthy,downtrend,mixed,False,-
+0,trend healthy,downtrend,mixed,False,-
+0,trend healthy,downtrend,mixed,False,-
+25,trend healthy,downtrend,mixed,False,location+rejection
+25,trend healthy,downtrend,mixed,False,absorption+location+rsi_gated
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+25,trend healthy,downtrend,mixed,False,absorption+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+35,caution,downtrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+0,trend healthy,downtrend,mixed,False,-
+0,trend healthy,downtrend,mixed,False,-
+15,trend healthy,downtrend,mixed,False,location+rsi_gated
+40,caution,downtrend,mixed,False,absorption+location+rejection+rsi_gated
+25,trend healthy,downtrend,mixed,False,absorption+location+rsi_gated
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+0,trend healthy,downtrend,range,False,-
+0,trend healthy,downtrend,range,False,-
+0,trend healthy,downtrend,range,False,-
+10,trend healthy,downtrend,range,False,location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,mixed,True,absorption+location
+20,trend healthy,downtrend,mixed,True,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+10,trend healthy,uptrend,mixed,False,location
+10,trend healthy,uptrend,mixed,False,location
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,True,absorption+location
+10,trend healthy,uptrend,trend,False,absorption
+10,trend healthy,uptrend,trend,False,absorption
+0,trend healthy,uptrend,trend,False,location
+0,trend healthy,uptrend,trend,False,location
+0,trend healthy,uptrend,trend,True,location
+10,trend healthy,uptrend,trend,True,absorption+location
+20,trend healthy,uptrend,trend,True,absorption+location
+20,trend healthy,uptrend,trend,True,absorption+location
+10,trend healthy,downtrend,trend,False,location
+0,trend healthy,downtrend,trend,False,-
+0,trend healthy,uptrend,mixed,False,-
+0,trend healthy,uptrend,mixed,False,-
+0,trend healthy,uptrend,mixed,False,-
+0,trend healthy,uptrend,mixed,False,-
+25,trend healthy,uptrend,mixed,False,location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+25,trend healthy,uptrend,mixed,False,absorption+location+rsi_gated
+15,trend healthy,uptrend,mixed,False,location+rsi_gated
+40,caution,uptrend,mixed,False,absorption+location+rejection+rsi_gated
+25,trend healthy,uptrend,mixed,False,absorption+location+rsi_gated
+25,trend healthy,uptrend,mixed,False,absorption+location+rsi_gated
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+0,trend healthy,uptrend,mixed,False,-
+25,trend healthy,uptrend,mixed,False,location+rejection
+35,caution,uptrend,mixed,False,absorption+location+rejection
+35,caution,uptrend,trend,False,absorption+location+rejection
+35,caution,uptrend,trend,False,absorption+location+rejection
+20,trend healthy,uptrend,trend,False,absorption+location
+10,trend healthy,uptrend,trend,False,absorption+location
+35,caution,uptrend,trend,False,absorption+location+rejection
+35,caution,uptrend,trend,False,absorption+location+rejection
+0,trend healthy,uptrend,trend,False,-
+0,trend healthy,uptrend,trend,False,-
+0,trend healthy,uptrend,trend,False,-
+0,trend healthy,uptrend,trend,False,-
+0,trend healthy,uptrend,trend,False,-
+0,trend healthy,uptrend,trend,False,-
+20,trend healthy,uptrend,trend,False,absorption+location
+0,trend healthy,uptrend,trend,False,-
+0,trend healthy,uptrend,trend,False,-
+20,trend healthy,uptrend,trend,False,absorption+location
+25,trend healthy,uptrend,trend,False,absorption+rejection
+20,trend healthy,uptrend,trend,False,absorption+location
+10,trend healthy,uptrend,trend,False,location
+10,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+0,trend healthy,uptrend,trend,False,-
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+35,caution,downtrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,True,absorption+location
+20,trend healthy,downtrend,range,True,absorption+location
+20,trend healthy,downtrend,range,True,absorption+location
+20,trend healthy,downtrend,range,True,absorption+location
+20,trend healthy,downtrend,range,True,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+10,trend healthy,uptrend,range,False,absorption
+25,trend healthy,uptrend,range,False,absorption+rejection
+10,trend healthy,uptrend,range,False,absorption
+35,caution,downtrend,mixed,True,absorption+location+rejection
+35,caution,downtrend,mixed,True,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,location
+0,trend healthy,downtrend,mixed,False,-
+10,trend healthy,downtrend,mixed,False,location
+0,trend healthy,downtrend,mixed,False,-
+15,trend healthy,downtrend,mixed,False,rejection
+0,trend healthy,downtrend,mixed,False,-
+15,trend healthy,downtrend,mixed,True,rejection
+15,trend healthy,downtrend,mixed,True,rejection
+0,trend healthy,downtrend,mixed,True,-
+0,trend healthy,downtrend,mixed,True,-
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+0,trend healthy,uptrend,trend,False,absorption
+10,trend healthy,uptrend,trend,False,absorption
+10,trend healthy,uptrend,trend,False,absorption
+10,trend healthy,uptrend,trend,False,absorption
+10,trend healthy,uptrend,trend,True,absorption
+0,trend healthy,downtrend,trend,False,-
+0,trend healthy,downtrend,trend,False,-
+25,trend healthy,downtrend,trend,False,absorption+rejection
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+35,caution,downtrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,mixed,True,absorption+location
+20,trend healthy,downtrend,mixed,True,absorption+location
+20,trend healthy,downtrend,mixed,True,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,True,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,True,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+35,caution,downtrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+35,caution,uptrend,range,False,absorption+location+rejection
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+20,trend healthy,uptrend,range,False,absorption+location
+10,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,mixed,False,absorption
+10,trend healthy,downtrend,range,False,absorption
+20,trend healthy,downtrend,mixed,False,absorption+location
+25,trend healthy,downtrend,mixed,False,location+rejection
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+15,trend healthy,downtrend,mixed,False,rejection
+20,trend healthy,downtrend,trend,False,absorption+location
+35,caution,downtrend,trend,False,absorption+location+rejection
+35,caution,downtrend,trend,False,absorption+location+rejection
+35,caution,downtrend,trend,False,absorption+location+rejection
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+0,trend healthy,downtrend,trend,False,-
+0,trend healthy,downtrend,trend,False,location
+0,trend healthy,downtrend,trend,False,-
+25,trend healthy,downtrend,trend,False,absorption+rejection
+10,trend healthy,downtrend,trend,False,absorption
+0,trend healthy,downtrend,trend,False,-
+15,trend healthy,downtrend,trend,False,rejection
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+25,trend healthy,uptrend,mixed,False,absorption+location+rsi_gated
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+35,caution,uptrend,mixed,False,absorption+location+rejection
+20,trend healthy,uptrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+10,trend healthy,downtrend,mixed,False,location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,trend,False,absorption+location
+20,trend healthy,uptrend,mixed,False,absorption+location
+20,trend healthy,uptrend,mixed,True,absorption+location
+35,caution,uptrend,mixed,True,absorption+location+rejection
+35,caution,downtrend,trend,False,absorption+location+rejection
+20,trend healthy,downtrend,trend,False,absorption+location
+35,caution,downtrend,mixed,False,absorption+location+rejection
+35,caution,downtrend,trend,False,absorption+location+rejection
+20,trend healthy,downtrend,trend,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,mixed,False,absorption+location
+35,caution,downtrend,mixed,False,absorption+location+rejection
+20,trend healthy,downtrend,mixed,False,absorption+location
+35,caution,downtrend,mixed,False,absorption+location+rejection
+20,trend healthy,downtrend,mixed,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+35,caution,downtrend,range,False,absorption+location+rejection
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location
+20,trend healthy,downtrend,range,False,absorption+location

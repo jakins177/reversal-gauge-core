@@ -1,0 +1,207 @@
+{
+  "setup_c_v3": {
+    "fixed": {
+      "net_r": 7.907,
+      "exp": 0.7188181818181818,
+      "win_rate": 0.6363636363636364,
+      "n": 11
+    },
+    "gauge": {
+      "net_r": 8.17705228710547,
+      "exp": 0.7433683897368609,
+      "win_rate": 0.6363636363636364,
+      "n": 11
+    },
+    "hybrid": {
+      "net_r": 8.177103543930192,
+      "exp": 0.7433730494481993,
+      "win_rate": 0.6363636363636364,
+      "n": 11
+    },
+    "hybrid_modes": {
+      "target": 5,
+      "gauge": 3,
+      "stop": 2,
+      "fallback": 1
+    },
+    "gauge_fired_n": 3,
+    "decomposition": {
+      "n_fired": 3,
+      "details": [
+        {
+          "entry_time": "13:00",
+          "direction": "short",
+          "orig": "time1555",
+          "gauge_gross_r": 0.495,
+          "delta_r": -0.145,
+          "kind": "time_exit_delta"
+        },
+        {
+          "entry_time": "10:55",
+          "direction": "short",
+          "orig": "time1555",
+          "gauge_gross_r": -0.134,
+          "delta_r": 0.422,
+          "kind": "time_exit_delta"
+        },
+        {
+          "entry_time": "13:10",
+          "direction": "short",
+          "orig": "time1555",
+          "gauge_gross_r": 0.596,
+          "delta_r": -0.007,
+          "kind": "time_exit_delta"
+        }
+      ],
+      "r_left_on_table": 0.152,
+      "r_saved": 0.422,
+      "n_cut_winners": 0,
+      "n_rescued_losers": 0,
+      "n_other": 3
+    },
+    "name": "setup_c_v3",
+    "verify_inf_repro": {
+      "logged": 7.907,
+      "reproduced": 7.9071,
+      "modes_agree": true,
+      "match": true
+    }
+  },
+  "setup_d": {
+    "fixed": {
+      "net_r": 14.065000000000001,
+      "exp": 0.21310606060606063,
+      "win_rate": 0.42424242424242425,
+      "n": 66
+    },
+    "gauge": {
+      "net_r": 12.198699966389025,
+      "exp": 0.18482878736953068,
+      "win_rate": 0.42424242424242425,
+      "n": 66
+    },
+    "hybrid": {
+      "net_r": 14.066127243297261,
+      "exp": 0.2131231400499585,
+      "win_rate": 0.42424242424242425,
+      "n": 66
+    },
+    "hybrid_modes": {
+      "stop": 36,
+      "target": 28,
+      "fallback": 2
+    },
+    "gauge_fired_n": 2,
+    "decomposition": {
+      "n_fired": 2,
+      "details": [
+        {
+          "entry_time": "15:30",
+          "direction": "short",
+          "orig": "target",
+          "gauge_gross_r": 1.301,
+          "delta_r": 0.699,
+          "kind": "cut_winner"
+        },
+        {
+          "entry_time": "14:25",
+          "direction": "short",
+          "orig": "target",
+          "gauge_gross_r": 0.833,
+          "delta_r": 1.167,
+          "kind": "cut_winner"
+        }
+      ],
+      "r_left_on_table": 1.866,
+      "r_saved": 0.0,
+      "n_cut_winners": 2,
+      "n_rescued_losers": 0,
+      "n_other": 0
+    },
+    "name": "setup_d",
+    "verify_inf_repro": {
+      "logged": 14.065,
+      "reproduced": 14.0661,
+      "modes_agree": true,
+      "match": true
+    }
+  },
+  "combined": {
+    "fixed": {
+      "net_r": 21.972,
+      "exp": 0.28535064935064935,
+      "win_rate": 0.45454545454545453,
+      "n": 77
+    },
+    "gauge": {
+      "net_r": 20.375752253494504,
+      "exp": 0.2646201591362923,
+      "win_rate": 0.45454545454545453,
+      "n": 77
+    },
+    "hybrid": {
+      "net_r": 22.243230787227454,
+      "exp": 0.28887312710685004,
+      "win_rate": 0.45454545454545453,
+      "n": 77
+    },
+    "hybrid_modes": {
+      "stop": 38,
+      "target": 33,
+      "gauge": 3,
+      "fallback": 3
+    },
+    "gauge_fired_n": 5,
+    "decomposition": {
+      "n_fired": 5,
+      "details": [
+        {
+          "entry_time": "13:00",
+          "direction": "short",
+          "orig": "time1555",
+          "gauge_gross_r": 0.495,
+          "delta_r": -0.145,
+          "kind": "time_exit_delta"
+        },
+        {
+          "entry_time": "10:55",
+          "direction": "short",
+          "orig": "time1555",
+          "gauge_gross_r": -0.134,
+          "delta_r": 0.422,
+          "kind": "time_exit_delta"
+        },
+        {
+          "entry_time": "13:10",
+          "direction": "short",
+          "orig": "time1555",
+          "gauge_gross_r": 0.596,
+          "delta_r": -0.007,
+          "kind": "time_exit_delta"
+        },
+        {
+          "entry_time": "15:30",
+          "direction": "short",
+          "orig": "target",
+          "gauge_gross_r": 1.301,
+          "delta_r": 0.699,
+          "kind": "cut_winner"
+        },
+        {
+          "entry_time": "14:25",
+          "direction": "short",
+          "orig": "target",
+          "gauge_gross_r": 0.833,
+          "delta_r": 1.167,
+          "kind": "cut_winner"
+        }
+      ],
+      "r_left_on_table": 2.018,
+      "r_saved": 0.422,
+      "n_cut_winners": 2,
+      "n_rescued_losers": 0,
+      "n_other": 3
+    },
+    "name": "combined"
+  }
+}
